@@ -1,0 +1,1182 @@
+[24-Jan-2025 15:40:26 America/Santo_Domingo] PHP Warning:  require_once(../../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:26 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:27 America/Santo_Domingo] PHP Warning:  require_once(../../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:27 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:28 America/Santo_Domingo] PHP Warning:  require_once(../../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:28 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:28 America/Santo_Domingo] PHP Warning:  require_once(../../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:28 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:28 America/Santo_Domingo] PHP Warning:  require_once(../../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:28 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:28 America/Santo_Domingo] PHP Warning:  require_once(../../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:28 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:30 America/Santo_Domingo] PHP Warning:  require_once(../../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:30 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:30 America/Santo_Domingo] PHP Warning:  require_once(../../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:30 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:30 America/Santo_Domingo] PHP Warning:  require_once(../../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 15:40:30 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 3
+[24-Jan-2025 16:03:40 America/Santo_Domingo] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'field list'
+[24-Jan-2025 16:07:26 America/Santo_Domingo] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saedigro_techvisits`.`visit_history`, CONSTRAINT `visit_history_ibfk_2` FOREIGN KEY (`action_by`) REFERENCES `users` (`id`))
+[24-Jan-2025 16:07:29 America/Santo_Domingo] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saedigro_techvisits`.`visit_history`, CONSTRAINT `visit_history_ibfk_2` FOREIGN KEY (`action_by`) REFERENCES `users` (`id`))
+[24-Jan-2025 16:10:21 America/Santo_Domingo] SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saedigro_techvisits`.`visit_history`, CONSTRAINT `visit_history_ibfk_2` FOREIGN KEY (`action_by`) REFERENCES `users` (`id`))
+[26-Jan-2025 12:29:39 America/Santo_Domingo] PHP Notice:  Undefined index: technician_id in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 42
+[26-Jan-2025 12:29:44 America/Santo_Domingo] PHP Notice:  Undefined index: technician_id in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 42
+[26-Jan-2025 12:30:06 America/Santo_Domingo] PHP Notice:  Undefined index: technician_id in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 42
+[26-Jan-2025 18:05:02 America/Santo_Domingo] PHP Notice:  Undefined index: technician_id in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 42
+[26-Jan-2025 18:05:08 America/Santo_Domingo] PHP Notice:  Undefined index: technician_id in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 42
+[26-Jan-2025 18:05:18 America/Santo_Domingo] PHP Notice:  Undefined index: technician_id in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 42
+[26-Jan-2025 18:05:29 America/Santo_Domingo] PHP Notice:  Undefined index: technician_id in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 42
+[26-Jan-2025 18:06:06 America/Santo_Domingo] PHP Notice:  Undefined index: technician_id in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 42
+[26-Jan-2025 18:06:51 America/Santo_Domingo] PHP Notice:  Undefined index: technician_id in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 42
+[26-Jan-2025 18:07:13 America/Santo_Domingo] PHP Notice:  Undefined index: technician_id in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 42
+[26-Jan-2025 18:18:43 America/Santo_Domingo] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'completion_time' in 'field list'
+[26-Jan-2025 18:18:50 America/Santo_Domingo] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'completion_time' in 'field list'
+[26-Jan-2025 18:18:57 America/Santo_Domingo] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'completion_time' in 'field list'
+[26-Jan-2025 19:41:00 America/Santo_Domingo] Error en update_status: Datos incompletos
+[27-Jan-2025 11:00:20 America/Santo_Domingo] Error en update_status: Datos incompletos
+[27-Jan-2025 11:07:22 America/Santo_Domingo] Error en update_status: Datos incompletos
+[27-Jan-2025 11:07:25 America/Santo_Domingo] Error en update_status: Datos incompletos
+[29-Jan-2025 14:06:31 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined function sendNotification() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:80
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 80
+[29-Jan-2025 14:06:34 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined function sendNotification() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:80
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 80
+[29-Jan-2025 14:09:08 America/Santo_Domingo] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 98
+[29-Jan-2025 14:24:27 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Class 'Notification' not found in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:82
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 82
+[29-Jan-2025 14:25:06 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Class 'Notification' not found in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:82
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 82
+[29-Jan-2025 14:29:36 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method Notification::create() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:92
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 92
+[29-Jan-2025 14:29:59 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method Notification::create() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:92
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 92
+[29-Jan-2025 14:33:05 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method Notification::create() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:92
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 92
+[29-Jan-2025 14:40:27 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method Notification::create() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:92
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 92
+[29-Jan-2025 16:00:24 America/Santo_Domingo] POST data recibida: Array
+(
+    [client_name] => JAZ INDUSTRIAL
+    [contact_name] => Jefferson Sanchez
+    [contact_phone] => 8297304466
+    [service_type] => Reparación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detrás de mora
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-03
+    [visit_time] => 14:59
+    [duration] => 30
+    [technician_id] => 3
+    [notes] => 
+)
+
+[29-Jan-2025 16:00:24 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method Notification::create() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:97
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 97
+[29-Jan-2025 16:11:56 America/Santo_Domingo] POST Data: Array
+(
+    [client_name] => JAZ INDUSTRIAL
+    [contact_name] => Martinez
+    [contact_phone] => 8297304466
+    [service_type] => Reparación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detrás de mora
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-01-30
+    [visit_time] => 09:11
+    [duration] => 120
+    [technician_id] => 3
+    [notes] => 
+)
+
+[29-Jan-2025 16:11:56 America/Santo_Domingo] SQL Params: Array
+(
+    [:client_name] => JAZ INDUSTRIAL
+    [:contact_name] => Martinez
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => detrás de mora
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-01-30
+    [:visit_time] => 09:11
+    [:technician_id] => 3
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[29-Jan-2025 16:13:00 America/Santo_Domingo] POST Data: Array
+(
+    [client_name] => JAZ INDUSTRIAL
+    [contact_name] => Martinez
+    [contact_phone] => 8297304466
+    [service_type] => Mantenimiento
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detrás de mora
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-01-31
+    [visit_time] => 08:12
+    [duration] => 90
+    [technician_id] => 3
+    [notes] => 
+)
+
+[29-Jan-2025 16:13:00 America/Santo_Domingo] SQL Params: Array
+(
+    [:client_name] => JAZ INDUSTRIAL
+    [:contact_name] => Martinez
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => detrás de mora
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-01-31
+    [:visit_time] => 08:12
+    [:technician_id] => 3
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[29-Jan-2025 16:17:51 America/Santo_Domingo] Inicio de save_visit.php
+[29-Jan-2025 16:17:51 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => JAZ INDUSTRIAL
+    [contact_name] => Martinez
+    [contact_phone] => 8297304466
+    [service_type] => Instalación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detrás de mora
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-01-31
+    [visit_time] => 09:17
+    [duration] => 90
+    [technician_id] => 3
+    [notes] => 
+)
+
+[29-Jan-2025 16:17:51 America/Santo_Domingo] Ejecutando query con parámetros: Array
+(
+    [:client_name] => JAZ INDUSTRIAL
+    [:contact_name] => Martinez
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => detrás de mora
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-01-31
+    [:visit_time] => 09:17
+    [:technician_id] => 3
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[29-Jan-2025 16:17:51 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method Notification::create() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:111
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 111
+[29-Jan-2025 16:17:55 America/Santo_Domingo] Inicio de save_visit.php
+[29-Jan-2025 16:17:55 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => JAZ INDUSTRIAL
+    [contact_name] => Martinez
+    [contact_phone] => 8297304466
+    [service_type] => Instalación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detrás de mora
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-01-31
+    [visit_time] => 09:17
+    [duration] => 90
+    [technician_id] => 3
+    [notes] => 
+)
+
+[29-Jan-2025 16:17:55 America/Santo_Domingo] Ejecutando query con parámetros: Array
+(
+    [:client_name] => JAZ INDUSTRIAL
+    [:contact_name] => Martinez
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => detrás de mora
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-01-31
+    [:visit_time] => 09:17
+    [:technician_id] => 3
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[29-Jan-2025 16:17:55 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method Notification::create() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:111
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 111
+[29-Jan-2025 17:36:46 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method Notification::create() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:90
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 90
+[29-Jan-2025 17:38:19 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method Notification::create() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php:90
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/visits/actions/save_visit.php on line 90
+[29-Jan-2025 18:04:09 America/Santo_Domingo] Error de base de datos: There is no active transaction
+[29-Jan-2025 18:08:25 America/Santo_Domingo] Iniciando save_visit.php
+[29-Jan-2025 18:08:25 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => JAZ INDUSTRIAL
+    [contact_name] => Martinez
+    [contact_phone] => 8297304466
+    [service_type] => Instalación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detrás de mora
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-01-31
+    [visit_time] => 08:04
+    [duration] => 90
+    [technician_id] => 3
+    [notes] => 
+)
+
+[29-Jan-2025 18:08:25 America/Santo_Domingo] Conexión a base de datos establecida
+[29-Jan-2025 18:08:25 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[29-Jan-2025 18:08:25 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => JAZ INDUSTRIAL
+    [:contact_name] => Martinez
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => detrás de mora
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-01-31
+    [:visit_time] => 08:04
+    [:technician_id] => 3
+    [:service_type] => Instalación
+    [:duration] => 90
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[29-Jan-2025 18:08:25 America/Santo_Domingo] Visita creada con ID: 41
+[29-Jan-2025 18:08:25 America/Santo_Domingo] Intentando crear notificación
+[29-Jan-2025 18:08:25 America/Santo_Domingo] Transacción completada exitosamente
+[29-Jan-2025 18:47:00 America/Santo_Domingo] Iniciando save_visit.php
+[29-Jan-2025 18:47:00 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => JAZ INDUSTRIAL
+    [contact_name] => Jefferson Sanchez
+    [contact_phone] => 8297304466
+    [service_type] => Revisión
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detrás de mora
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-01-31
+    [visit_time] => 09:46
+    [duration] => 120
+    [technician_id] => 3
+    [notes] => 
+)
+
+[29-Jan-2025 18:47:00 America/Santo_Domingo] Conexión a base de datos establecida
+[29-Jan-2025 18:47:00 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[29-Jan-2025 18:47:00 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => JAZ INDUSTRIAL
+    [:contact_name] => Jefferson Sanchez
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => detrás de mora
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-01-31
+    [:visit_time] => 09:46
+    [:technician_id] => 3
+    [:service_type] => Revisión
+    [:duration] => 120
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[29-Jan-2025 18:47:00 America/Santo_Domingo] Visita creada con ID: 42
+[29-Jan-2025 18:47:00 America/Santo_Domingo] Intentando crear notificación
+[29-Jan-2025 18:47:00 America/Santo_Domingo] Transacción completada exitosamente
+[30-Jan-2025 11:57:55 America/Santo_Domingo] Iniciando save_visit.php
+[30-Jan-2025 11:57:55 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => SOLFIS
+    [contact_name] => Julio Ramirez
+    [contact_phone] => 8297304466
+    [service_type] => Revisión
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Frente al Colmado 27 de Febrero
+    [location_url] => https://maps.app.goo.gl/uzSVAPUraqQZNUq48
+    [visit_date] => 2025-02-04
+    [visit_time] => 14:00
+    [duration] => 60
+    [technician_id] => 3
+    [notes] => 
+)
+
+[30-Jan-2025 11:57:55 America/Santo_Domingo] Conexión a base de datos establecida
+[30-Jan-2025 11:57:55 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[30-Jan-2025 11:57:55 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => SOLFIS
+    [:contact_name] => Julio Ramirez
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => Frente al Colmado 27 de Febrero
+    [:location_url] => https://maps.app.goo.gl/uzSVAPUraqQZNUq48
+    [:visit_date] => 2025-02-04
+    [:visit_time] => 14:00
+    [:technician_id] => 3
+    [:service_type] => Revisión
+    [:duration] => 60
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[30-Jan-2025 11:57:55 America/Santo_Domingo] Visita creada con ID: 43
+[30-Jan-2025 11:57:55 America/Santo_Domingo] Intentando crear notificación
+[30-Jan-2025 11:57:55 America/Santo_Domingo] Transacción completada exitosamente
+[30-Jan-2025 14:18:39 America/Santo_Domingo] Iniciando save_visit.php
+[30-Jan-2025 14:18:39 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => MACUTO
+    [contact_name] => Julio Ramirez
+    [contact_phone] => 8297304466
+    [service_type] => Revisión
+    [address] => Av. Charles Sumner, Santo Domingo
+    [reference] => cassavf
+    [location_url] => https://maps.app.goo.gl/uzSVAPUraqQZNUq48
+    [visit_date] => 2025-02-05
+    [visit_time] => 09:00
+    [duration] => 120
+    [technician_id] => 3
+    [notes] => 
+)
+
+[30-Jan-2025 14:18:39 America/Santo_Domingo] Conexión a base de datos establecida
+[30-Jan-2025 14:18:39 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[30-Jan-2025 14:18:39 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => MACUTO
+    [:contact_name] => Julio Ramirez
+    [:contact_phone] => 8297304466
+    [:address] => Av. Charles Sumner, Santo Domingo
+    [:reference] => cassavf
+    [:location_url] => https://maps.app.goo.gl/uzSVAPUraqQZNUq48
+    [:visit_date] => 2025-02-05
+    [:visit_time] => 09:00
+    [:technician_id] => 3
+    [:service_type] => Revisión
+    [:duration] => 120
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[30-Jan-2025 14:18:39 America/Santo_Domingo] Visita creada con ID: 44
+[30-Jan-2025 14:18:39 America/Santo_Domingo] Intentando crear notificación
+[30-Jan-2025 14:18:39 America/Santo_Domingo] Transacción completada exitosamente
+[30-Jan-2025 14:31:16 America/Santo_Domingo] Iniciando save_visit.php
+[30-Jan-2025 14:31:16 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => SAEDIGROUP
+    [contact_name] => Fabio Duran
+    [contact_phone] => 8097770117
+    [service_type] => Instalación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detras de mora
+    [location_url] => https://maps.app.goo.gl/nE5CxFWemFSszgqU8
+    [visit_date] => 2025-02-03
+    [visit_time] => 15:00
+    [duration] => 120
+    [technician_id] => 3
+    [notes] => 
+)
+
+[30-Jan-2025 14:31:16 America/Santo_Domingo] Conexión a base de datos establecida
+[30-Jan-2025 14:31:16 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[30-Jan-2025 14:31:16 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => SAEDIGROUP
+    [:contact_name] => Fabio Duran
+    [:contact_phone] => 8097770117
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => detras de mora
+    [:location_url] => https://maps.app.goo.gl/nE5CxFWemFSszgqU8
+    [:visit_date] => 2025-02-03
+    [:visit_time] => 15:00
+    [:technician_id] => 3
+    [:service_type] => Instalación
+    [:duration] => 120
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[30-Jan-2025 14:31:16 America/Santo_Domingo] Visita creada con ID: 45
+[30-Jan-2025 14:31:16 America/Santo_Domingo] Intentando crear notificación
+[30-Jan-2025 14:31:16 America/Santo_Domingo] Transacción completada exitosamente
+[30-Jan-2025 14:42:17 America/Santo_Domingo] Iniciando save_visit.php
+[30-Jan-2025 14:42:17 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => SAEDIGROUP
+    [contact_name] => Fabio Duran
+    [contact_phone] => 8097770117
+    [service_type] => Instalación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detras de mora
+    [location_url] => https://maps.app.goo.gl/nE5CxFWemFSszgqU8
+    [visit_date] => 2025-02-03
+    [visit_time] => 16:00
+    [duration] => 120
+    [technician_id] => 3
+    [notes] => 
+    [visit_id] => 45
+)
+
+[30-Jan-2025 14:42:17 America/Santo_Domingo] Conexión a base de datos establecida
+[30-Jan-2025 14:42:17 America/Santo_Domingo] Transacción completada exitosamente
+[01-Feb-2025 20:36:11 America/Santo_Domingo] Iniciando save_visit.php
+[01-Feb-2025 20:36:11 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => JAZ INDUSTRIAL
+    [contact_name] => Martinez
+    [contact_phone] => 8297304466
+    [service_type] => Instalación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detrás de mora
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-03
+    [visit_time] => 09:35
+    [duration] => 120
+    [technician_id] => 3
+    [notes] => 
+)
+
+[01-Feb-2025 20:36:11 America/Santo_Domingo] Conexión a base de datos establecida
+[01-Feb-2025 20:36:11 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[01-Feb-2025 20:36:11 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => JAZ INDUSTRIAL
+    [:contact_name] => Martinez
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => detrás de mora
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-02-03
+    [:visit_time] => 09:35
+    [:technician_id] => 3
+    [:service_type] => Instalación
+    [:duration] => 120
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[01-Feb-2025 20:36:11 America/Santo_Domingo] Visita creada con ID: 46
+[01-Feb-2025 20:36:11 America/Santo_Domingo] Intentando crear notificación
+[01-Feb-2025 20:36:11 America/Santo_Domingo] Transacción completada exitosamente
+[02-Feb-2025 00:30:44 America/Santo_Domingo] Iniciando save_visit.php
+[02-Feb-2025 00:30:44 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => SOLFIS
+    [contact_name] => Jefferson Sanchez
+    [contact_phone] => 8297304466
+    [service_type] => Instalación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detrás de mora
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-03
+    [visit_time] => 13:00
+    [duration] => 120
+    [technician_id] => 3
+    [notes] => 
+)
+
+[02-Feb-2025 00:30:44 America/Santo_Domingo] Conexión a base de datos establecida
+[02-Feb-2025 00:30:44 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[02-Feb-2025 00:30:44 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => SOLFIS
+    [:contact_name] => Jefferson Sanchez
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => detrás de mora
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-02-03
+    [:visit_time] => 13:00
+    [:technician_id] => 3
+    [:service_type] => Instalación
+    [:duration] => 120
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[02-Feb-2025 00:30:44 America/Santo_Domingo] Visita creada con ID: 47
+[02-Feb-2025 00:30:44 America/Santo_Domingo] Intentando crear notificación
+[02-Feb-2025 00:30:44 America/Santo_Domingo] Transacción completada exitosamente
+[02-Feb-2025 00:52:00 America/Santo_Domingo] Iniciando save_visit.php
+[02-Feb-2025 00:52:00 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => THC
+    [contact_name] => Martinez Feliz
+    [contact_phone] => 8297304466
+    [service_type] => Mantenimiento
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Entrando en la fiscalia
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-03
+    [visit_time] => 16:00
+    [duration] => 60
+    [technician_id] => 3
+    [notes] => 
+)
+
+[02-Feb-2025 00:52:00 America/Santo_Domingo] Conexión a base de datos establecida
+[02-Feb-2025 00:52:00 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[02-Feb-2025 00:52:00 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => THC
+    [:contact_name] => Martinez Feliz
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => Entrando en la fiscalia
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-02-03
+    [:visit_time] => 16:00
+    [:technician_id] => 3
+    [:service_type] => Mantenimiento
+    [:duration] => 60
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[02-Feb-2025 00:52:00 America/Santo_Domingo] Visita creada con ID: 48
+[02-Feb-2025 00:52:00 America/Santo_Domingo] Intentando crear notificación
+[02-Feb-2025 00:52:00 America/Santo_Domingo] Transacción completada exitosamente
+[02-Feb-2025 11:22:51 America/Santo_Domingo] Iniciando save_visit.php
+[02-Feb-2025 11:22:51 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => TEAM LOGIC DOMINICANA
+    [contact_name] => ZULY REYES
+    [contact_phone] => 8297304466
+    [service_type] => Mantenimiento
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Entrando en la fiscalia
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-04
+    [visit_time] => 14:00
+    [duration] => 120
+    [technician_id] => 3
+    [notes] => 
+)
+
+[02-Feb-2025 11:22:51 America/Santo_Domingo] Conexión a base de datos establecida
+[02-Feb-2025 11:22:51 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[02-Feb-2025 11:22:51 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => TEAM LOGIC DOMINICANA
+    [:contact_name] => ZULY REYES
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => Entrando en la fiscalia
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-02-04
+    [:visit_time] => 14:00
+    [:technician_id] => 3
+    [:service_type] => Mantenimiento
+    [:duration] => 120
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[02-Feb-2025 11:22:51 America/Santo_Domingo] Visita creada con ID: 49
+[02-Feb-2025 11:22:51 America/Santo_Domingo] Intentando crear notificación
+[02-Feb-2025 11:22:51 America/Santo_Domingo] Transacción completada exitosamente
+[05-Feb-2025 16:13:09 America/Santo_Domingo] Iniciando save_visit.php
+[05-Feb-2025 16:13:09 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => JAZ INDUSTRIAL
+    [contact_name] => Martinez Feliz
+    [contact_phone] => 8297304466
+    [service_type] => Revisión
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Entrando en la fiscalia
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-05
+    [visit_time] => 17:00
+    [duration] => 90
+    [technician_id] => 3
+    [notes] => 
+)
+
+[05-Feb-2025 16:13:09 America/Santo_Domingo] Conexión a base de datos establecida
+[05-Feb-2025 16:13:09 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[05-Feb-2025 16:13:09 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => JAZ INDUSTRIAL
+    [:contact_name] => Martinez Feliz
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => Entrando en la fiscalia
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-02-05
+    [:visit_time] => 17:00
+    [:technician_id] => 3
+    [:service_type] => Revisión
+    [:duration] => 90
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[05-Feb-2025 16:13:09 America/Santo_Domingo] Visita creada con ID: 50
+[05-Feb-2025 16:13:09 America/Santo_Domingo] Intentando crear notificación
+[05-Feb-2025 16:13:09 America/Santo_Domingo] Transacción completada exitosamente
+[06-Feb-2025 12:31:45 America/Santo_Domingo] Iniciando save_visit.php
+[06-Feb-2025 12:31:45 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => MALECON CENTER 2
+    [contact_name] => Admin Top Cargo
+    [contact_phone] => 8095653256
+    [service_type] => Reparación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Detras de TN
+    [location_url] => https://maps.app.goo.gl/uzSVAPUraqQZNUq48
+    [visit_date] => 2025-02-06
+    [visit_time] => 15:34
+    [duration] => 90
+    [technician_id] => 3
+    [notes] => 
+)
+
+[06-Feb-2025 12:31:45 America/Santo_Domingo] Conexión a base de datos establecida
+[06-Feb-2025 12:31:45 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[06-Feb-2025 12:31:45 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => MALECON CENTER 2
+    [:contact_name] => Admin Top Cargo
+    [:contact_phone] => 8095653256
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => Detras de TN
+    [:location_url] => https://maps.app.goo.gl/uzSVAPUraqQZNUq48
+    [:visit_date] => 2025-02-06
+    [:visit_time] => 15:34
+    [:technician_id] => 3
+    [:service_type] => Reparación
+    [:duration] => 90
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[06-Feb-2025 12:31:45 America/Santo_Domingo] Visita creada con ID: 51
+[06-Feb-2025 12:31:45 America/Santo_Domingo] Intentando crear notificación
+[06-Feb-2025 12:31:45 America/Santo_Domingo] Transacción completada exitosamente
+[06-Feb-2025 12:34:07 America/Santo_Domingo] Iniciando save_visit.php
+[06-Feb-2025 12:34:07 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => SAEDIGROUP 56
+    [contact_name] => Admin SmartChef
+    [contact_phone] => 8297304466
+    [service_type] => Reparación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Detras de TN
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-06
+    [visit_time] => 16:00
+    [duration] => 90
+    [technician_id] => 4
+    [notes] => 
+)
+
+[06-Feb-2025 12:34:07 America/Santo_Domingo] Conexión a base de datos establecida
+[06-Feb-2025 12:34:07 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[06-Feb-2025 12:34:07 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => SAEDIGROUP 56
+    [:contact_name] => Admin SmartChef
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => Detras de TN
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-02-06
+    [:visit_time] => 16:00
+    [:technician_id] => 4
+    [:service_type] => Reparación
+    [:duration] => 90
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[06-Feb-2025 12:34:07 America/Santo_Domingo] Visita creada con ID: 52
+[06-Feb-2025 12:34:07 America/Santo_Domingo] Intentando crear notificación
+[06-Feb-2025 12:34:07 America/Santo_Domingo] Transacción completada exitosamente
+[06-Feb-2025 12:52:33 America/Santo_Domingo] Iniciando save_visit.php
+[06-Feb-2025 12:52:33 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => SAEDIGROUP 56
+    [contact_name] => Admin SmartChef
+    [contact_phone] => 8297304466
+    [service_type] => Reparación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Detras de TN
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-06
+    [visit_time] => 12:30
+    [duration] => 90
+    [technician_id] => 4
+    [notes] => 
+    [visit_id] => 52
+)
+
+[06-Feb-2025 12:52:33 America/Santo_Domingo] Conexión a base de datos establecida
+[06-Feb-2025 12:52:33 America/Santo_Domingo] Transacción completada exitosamente
+[06-Feb-2025 13:18:49 America/Santo_Domingo] Iniciando save_visit.php
+[06-Feb-2025 13:18:49 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => SAEDIGROUP 56
+    [contact_name] => Admin SmartChef
+    [contact_phone] => 8297304466
+    [service_type] => Reparación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Detras de TN
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-06
+    [visit_time] => 13:30
+    [duration] => 90
+    [technician_id] => 4
+    [notes] => 
+    [visit_id] => 52
+)
+
+[06-Feb-2025 13:18:49 America/Santo_Domingo] Conexión a base de datos establecida
+[06-Feb-2025 13:18:49 America/Santo_Domingo] Transacción completada exitosamente
+[06-Feb-2025 13:19:23 America/Santo_Domingo] Iniciando save_visit.php
+[06-Feb-2025 13:19:23 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => SAEDIGROUP 56
+    [contact_name] => Admin SmartChef
+    [contact_phone] => 8297304466
+    [service_type] => Reparación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Detras de TN
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-06
+    [visit_time] => 14:00
+    [duration] => 90
+    [technician_id] => 4
+    [notes] => 
+    [visit_id] => 52
+)
+
+[06-Feb-2025 13:19:23 America/Santo_Domingo] Conexión a base de datos establecida
+[06-Feb-2025 13:19:23 America/Santo_Domingo] Transacción completada exitosamente
+[06-Feb-2025 13:22:15 America/Santo_Domingo] Iniciando save_visit.php
+[06-Feb-2025 13:22:15 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => JAZ INDUSTRIAL 2
+    [contact_name] => ZULY REYES
+    [contact_phone] => 8095653256
+    [service_type] => Instalación
+    [address] => CALLE
+    [reference] => Detras de TN
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-06
+    [visit_time] => 13:50
+    [duration] => 90
+    [technician_id] => 5
+    [notes] => 
+)
+
+[06-Feb-2025 13:22:15 America/Santo_Domingo] Conexión a base de datos establecida
+[06-Feb-2025 13:22:15 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[06-Feb-2025 13:22:15 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => JAZ INDUSTRIAL 2
+    [:contact_name] => ZULY REYES
+    [:contact_phone] => 8095653256
+    [:address] => CALLE
+    [:reference] => Detras de TN
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-02-06
+    [:visit_time] => 13:50
+    [:technician_id] => 5
+    [:service_type] => Instalación
+    [:duration] => 90
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[06-Feb-2025 13:22:15 America/Santo_Domingo] Visita creada con ID: 53
+[06-Feb-2025 13:22:15 America/Santo_Domingo] Intentando crear notificación
+[06-Feb-2025 13:22:15 America/Santo_Domingo] Transacción completada exitosamente
+[06-Feb-2025 13:57:51 America/Santo_Domingo] Iniciando save_visit.php
+[06-Feb-2025 13:57:51 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => MALECON CENTER 5
+    [contact_name] => Jefferson Sanchez
+    [contact_phone] => 8095653256
+    [service_type] => Mantenimiento
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Detras de TN
+    [location_url] => https://maps.app.goo.gl/uzSVAPUraqQZNUq48
+    [visit_date] => 2025-02-06
+    [visit_time] => 14:30
+    [duration] => 90
+    [technician_id] => 4
+    [notes] => 
+)
+
+[06-Feb-2025 13:57:51 America/Santo_Domingo] Conexión a base de datos establecida
+[06-Feb-2025 13:57:51 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[06-Feb-2025 13:57:51 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => MALECON CENTER 5
+    [:contact_name] => Jefferson Sanchez
+    [:contact_phone] => 8095653256
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => Detras de TN
+    [:location_url] => https://maps.app.goo.gl/uzSVAPUraqQZNUq48
+    [:visit_date] => 2025-02-06
+    [:visit_time] => 14:30
+    [:technician_id] => 4
+    [:service_type] => Mantenimiento
+    [:duration] => 90
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[06-Feb-2025 13:57:51 America/Santo_Domingo] Visita creada con ID: 54
+[06-Feb-2025 13:57:51 America/Santo_Domingo] Intentando crear notificación
+[06-Feb-2025 13:57:51 America/Santo_Domingo] Transacción completada exitosamente
+[06-Feb-2025 15:31:49 America/Santo_Domingo] Iniciando save_visit.php
+[06-Feb-2025 15:31:49 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => MALECON CENTER 5
+    [contact_name] => Admin SmartChef
+    [contact_phone] => 8095653256
+    [service_type] => Mantenimiento
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Detras de TN
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-06
+    [visit_time] => 16:00
+    [duration] => 60
+    [technician_id] => 3
+    [notes] => 
+)
+
+[06-Feb-2025 15:31:49 America/Santo_Domingo] Conexión a base de datos establecida
+[06-Feb-2025 15:31:49 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[06-Feb-2025 15:31:49 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => MALECON CENTER 5
+    [:contact_name] => Admin SmartChef
+    [:contact_phone] => 8095653256
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => Detras de TN
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-02-06
+    [:visit_time] => 16:00
+    [:technician_id] => 3
+    [:service_type] => Mantenimiento
+    [:duration] => 60
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[06-Feb-2025 15:31:49 America/Santo_Domingo] Visita creada con ID: 55
+[06-Feb-2025 15:31:49 America/Santo_Domingo] Intentando crear notificación
+[06-Feb-2025 15:31:49 America/Santo_Domingo] Transacción completada exitosamente
+[07-Feb-2025 10:27:43 America/Santo_Domingo] Iniciando save_visit.php
+[07-Feb-2025 10:27:43 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => JAZ INDUSTRIAL
+    [contact_name] => Martinez Feliz
+    [contact_phone] => 8297304466
+    [service_type] => Reparación
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => detrás de mora
+    [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [visit_date] => 2025-02-07
+    [visit_time] => 13:00
+    [duration] => 90
+    [technician_id] => 4
+    [notes] => 
+)
+
+[07-Feb-2025 10:27:43 America/Santo_Domingo] Conexión a base de datos establecida
+[07-Feb-2025 10:27:43 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[07-Feb-2025 10:27:43 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => JAZ INDUSTRIAL
+    [:contact_name] => Martinez Feliz
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => detrás de mora
+    [:location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+    [:visit_date] => 2025-02-07
+    [:visit_time] => 13:00
+    [:technician_id] => 4
+    [:service_type] => Reparación
+    [:duration] => 90
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[07-Feb-2025 10:27:43 America/Santo_Domingo] Visita creada con ID: 56
+[07-Feb-2025 10:27:43 America/Santo_Domingo] Intentando crear notificación
+[07-Feb-2025 10:27:43 America/Santo_Domingo] Transacción completada exitosamente
+[07-Feb-2025 10:28:44 America/Santo_Domingo] Iniciando save_visit.php
+[07-Feb-2025 10:28:44 America/Santo_Domingo] POST data: Array
+(
+    [client_name] => SOLFIS
+    [contact_name] => ZULY REYES
+    [contact_phone] => 8297304466
+    [service_type] => Mantenimiento
+    [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [reference] => Entrando en la fiscalia
+    [location_url] => https://maps.app.goo.gl/TErZHGrUXGn7bNgi9
+    [visit_date] => 2025-02-07
+    [visit_time] => 14:28
+    [duration] => 120
+    [technician_id] => 3
+    [notes] => 
+)
+
+[07-Feb-2025 10:28:44 America/Santo_Domingo] Conexión a base de datos establecida
+[07-Feb-2025 10:28:44 America/Santo_Domingo] SQL para nueva visita: INSERT INTO visits (
+            client_name, contact_name, contact_phone,
+            address, reference, location_url,
+            visit_date, visit_time, technician_id,
+            service_type, duration, notes, 
+            status, created_by
+        ) VALUES (
+            :client_name, :contact_name, :contact_phone,
+            :address, :reference, :location_url,
+            :visit_date, :visit_time, :technician_id,
+            :service_type, :duration, :notes,
+            'pending', :created_by
+        )
+[07-Feb-2025 10:28:44 America/Santo_Domingo] Parámetros: Array
+(
+    [:client_name] => SOLFIS
+    [:contact_name] => ZULY REYES
+    [:contact_phone] => 8297304466
+    [:address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+    [:reference] => Entrando en la fiscalia
+    [:location_url] => https://maps.app.goo.gl/TErZHGrUXGn7bNgi9
+    [:visit_date] => 2025-02-07
+    [:visit_time] => 14:28
+    [:technician_id] => 3
+    [:service_type] => Mantenimiento
+    [:duration] => 120
+    [:notes] => 
+    [:created_by] => 2
+)
+
+[07-Feb-2025 10:28:44 America/Santo_Domingo] Visita creada con ID: 57
+[07-Feb-2025 10:28:44 America/Santo_Domingo] Intentando crear notificación
+[07-Feb-2025 10:28:44 America/Santo_Domingo] Transacción completada exitosamente

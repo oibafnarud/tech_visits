@@ -1,0 +1,10 @@
+[19-Mar-2025 11:47:24 America/Santo_Domingo] SQL Debug - Visitas encontradas: {"total":0,"start_date":"2025-03-12","end_date":"2025-03-19","visitas":[]}
+[19-Mar-2025 11:47:24 America/Santo_Domingo] PHP Notice:  Undefined index: range in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/dashboard.php on line 207
+[19-Mar-2025 11:47:24 America/Santo_Domingo] PHP Notice:  Undefined index: range in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/dashboard.php on line 211
+[19-Mar-2025 11:47:24 America/Santo_Domingo] PHP Notice:  Undefined index: range in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/dashboard.php on line 215
+[19-Mar-2025 11:47:24 America/Santo_Domingo] PHP Warning:  Division by zero in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/dashboard.php on line 239
+[28-Mar-2025 18:09:24 America/Santo_Domingo] SQL Debug - Visitas encontradas: {"total":0,"start_date":"2025-03-21","end_date":"2025-03-28","visitas":[]}
+[28-Mar-2025 18:09:24 America/Santo_Domingo] PHP Notice:  Undefined index: range in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/dashboard.php on line 207
+[28-Mar-2025 18:09:24 America/Santo_Domingo] PHP Notice:  Undefined index: range in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/dashboard.php on line 211
+[28-Mar-2025 18:09:24 America/Santo_Domingo] PHP Notice:  Undefined index: range in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/dashboard.php on line 215
+[28-Mar-2025 18:09:24 America/Santo_Domingo] PHP Warning:  Division by zero in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/admin/dashboard.php on line 239

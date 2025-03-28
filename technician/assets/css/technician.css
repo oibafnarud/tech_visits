@@ -1,0 +1,150 @@
+/* Base styles */
+.bottom-nav-item.active {
+    color: #2563eb;
+    border-top: 2px solid #2563eb;
+}
+
+/* Transitions */
+.visit-card {
+    transition: all 0.2s ease;
+}
+
+.visit-card:active {
+    transform: scale(0.98);
+}
+
+/* Badge styles */
+.notification-badge {
+    @apply absolute -top-1 -right-1 min-w-[20px] h-5 
+           flex items-center justify-center
+           bg-red-500 text-white text-xs rounded-full;
+    padding: 0 6px;
+}
+
+.pending-badge {
+    @apply absolute -top-2 -right-2 min-w-[22px] h-[22px] 
+           flex items-center justify-center
+           bg-yellow-500 text-white font-bold text-xs 
+           rounded-full shadow-sm border-2 border-white;
+    padding: 2px 6px;
+}
+
+/* Visit cards */
+.pending-visit-card {
+    @apply bg-white rounded-lg shadow border-l-4 border-yellow-500 
+           mb-3 overflow-hidden hover:shadow-md transition-all duration-200;
+}
+
+.month-visit-card {
+    @apply bg-white rounded-lg shadow mb-3 overflow-hidden 
+           hover:shadow-md transition-all duration-200;
+}
+
+/* Visit components */
+.visit-card-header {
+    @apply p-4 border-b bg-gray-50;
+}
+
+.visit-time {
+    @apply text-lg font-bold text-gray-800;
+}
+
+.visit-date {
+    @apply text-sm text-gray-500;
+}
+
+.visit-client {
+    @apply text-base font-medium text-gray-700 mt-1;
+}
+
+.visit-body {
+    @apply p-4 space-y-3;
+}
+
+.visit-address {
+    @apply flex items-start space-x-2 text-gray-600;
+}
+
+.visit-actions {
+    @apply flex flex-wrap justify-end gap-2 mt-3;
+}
+
+/* Buttons */
+.action-button {
+    @apply px-3 py-1.5 rounded-lg text-sm font-medium 
+           transition-colors duration-150 flex items-center gap-2;
+}
+
+.btn-route {
+    @apply bg-yellow-50 text-yellow-600 hover:bg-yellow-100;
+}
+
+.btn-complete {
+    @apply bg-green-50 text-green-600 hover:bg-green-100;
+}
+
+.btn-details {
+    @apply bg-blue-50 text-blue-600 hover:bg-blue-100;
+}
+
+/* Modal styles */
+.modal-container {
+    @apply fixed inset-0 bg-black bg-opacity-50 z-50;
+}
+
+.modal-content {
+    @apply fixed inset-4 md:inset-auto md:top-1/2 md:left-1/2 
+           md:-translate-x-1/2 md:-translate-y-1/2 
+           bg-white rounded-xl overflow-hidden md:w-full md:max-w-2xl 
+           max-h-[90vh] flex flex-col;
+}
+
+.modal-header {
+    @apply p-4 border-b flex justify-between items-center 
+           sticky top-0 bg-white z-10;
+}
+
+.modal-body {
+    @apply flex-1 overflow-y-auto;
+}
+
+/* Calendar styles */
+.calendar-day {
+    @apply aspect-square border rounded-lg p-1 relative 
+           transition-all duration-200;
+}
+
+.calendar-day.has-visits {
+    @apply cursor-pointer hover:bg-gray-50;
+}
+
+.calendar-day.is-today {
+    @apply bg-blue-50 border-blue-200;
+}
+
+.visit-count-badge {
+    @apply px-2 py-0.5 rounded-full text-xs font-medium;
+}
+
+.visit-count-badge.all-completed {
+    @apply bg-green-100 text-green-800;
+}
+
+.visit-count-badge.has-pending {
+    @apply bg-blue-100 text-blue-800;
+}
+
+/* Header components */
+.header-icon-button {
+    @apply p-2 text-gray-600 hover:text-gray-800 relative
+           transition-colors duration-150 rounded-full
+           hover:bg-gray-100;
+}
+
+/* Mobile adjustments */
+@media (max-width: 640px) {
+    .modal-content {
+        max-height: 90vh;
+        overflow-y: auto;
+    }
+}

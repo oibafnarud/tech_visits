@@ -1,0 +1,28 @@
+[22-Jan-2025 16:37:00 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/install.php:6
+Stack trace:
+#0 /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/install.php(17): adminExists(NULL)
+#1 /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/install.php(29): checkInstallation()
+#2 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/install.php on line 6
+[22-Jan-2025 16:37:54 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/install.php:6
+Stack trace:
+#0 /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/install.php(17): adminExists(NULL)
+#1 /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/install.php(29): checkInstallation()
+#2 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/install.php on line 6
+[22-Jan-2025 16:38:59 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/login.php on line 11
+[22-Jan-2025 16:39:35 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/login.php on line 11
+[22-Jan-2025 16:39:56 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/login.php on line 11
+[22-Jan-2025 16:41:26 America/Santo_Domingo] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/login.php on line 11

@@ -1,0 +1,701 @@
+[30-Jan-2025 15:04:01 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:05:02 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:06:03 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:07:04 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:08:05 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:09:06 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:10:07 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:11:08 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:12:09 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:13:10 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:14:11 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:15:12 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:16:13 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:17:14 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:18:15 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:19:16 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:20:16 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:21:16 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:22:16 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:23:16 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:24:16 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[30-Jan-2025 15:25:16 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[01-Feb-2025 20:17:53 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[01-Feb-2025 20:18:46 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[01-Feb-2025 20:20:41 America/Santo_Domingo] Error en get_notifications.php: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''20' OFFSET '0'' at line 7
+[02-Feb-2025 13:52:52 America/Santo_Domingo] Pending visits query result: Array
+(
+    [0] => Array
+        (
+            [id] => 46
+            [client_name] => JAZ INDUSTRIAL
+            [contact_name] => Martinez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 09:35
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 01:36:11
+            [updated_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 47
+            [client_name] => SOLFIS
+            [contact_name] => Jefferson Sanchez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 13:00
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:30:44
+            [updated_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 48
+            [client_name] => THC
+            [contact_name] => Martinez Feliz
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 16:00
+            [duration] => 60
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:52:00
+            [updated_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 49
+            [client_name] => TEAM LOGIC DOMINICANA
+            [contact_name] => ZULY REYES
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-04
+            [visit_time] => 14:00
+            [duration] => 120
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 16:22:51
+            [updated_at] => 
+        )
+
+)
+
+[02-Feb-2025 13:57:42 America/Santo_Domingo] Pending visits query result: Array
+(
+    [0] => Array
+        (
+            [id] => 46
+            [client_name] => JAZ INDUSTRIAL
+            [contact_name] => Martinez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 09:35
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 01:36:11
+            [updated_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 47
+            [client_name] => SOLFIS
+            [contact_name] => Jefferson Sanchez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 13:00
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:30:44
+            [updated_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 48
+            [client_name] => THC
+            [contact_name] => Martinez Feliz
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 16:00
+            [duration] => 60
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:52:00
+            [updated_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 49
+            [client_name] => TEAM LOGIC DOMINICANA
+            [contact_name] => ZULY REYES
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-04
+            [visit_time] => 14:00
+            [duration] => 120
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 16:22:51
+            [updated_at] => 
+        )
+
+)
+
+[02-Feb-2025 13:58:22 America/Santo_Domingo] Pending visits query result: Array
+(
+    [0] => Array
+        (
+            [id] => 46
+            [client_name] => JAZ INDUSTRIAL
+            [contact_name] => Martinez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 09:35
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 01:36:11
+            [updated_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 47
+            [client_name] => SOLFIS
+            [contact_name] => Jefferson Sanchez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 13:00
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:30:44
+            [updated_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 48
+            [client_name] => THC
+            [contact_name] => Martinez Feliz
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 16:00
+            [duration] => 60
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:52:00
+            [updated_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 49
+            [client_name] => TEAM LOGIC DOMINICANA
+            [contact_name] => ZULY REYES
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-04
+            [visit_time] => 14:00
+            [duration] => 120
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 16:22:51
+            [updated_at] => 
+        )
+
+)
+
+[02-Feb-2025 13:58:39 America/Santo_Domingo] Pending visits query result: Array
+(
+    [0] => Array
+        (
+            [id] => 46
+            [client_name] => JAZ INDUSTRIAL
+            [contact_name] => Martinez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 09:35
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 01:36:11
+            [updated_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 47
+            [client_name] => SOLFIS
+            [contact_name] => Jefferson Sanchez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 13:00
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:30:44
+            [updated_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 48
+            [client_name] => THC
+            [contact_name] => Martinez Feliz
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 16:00
+            [duration] => 60
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:52:00
+            [updated_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 49
+            [client_name] => TEAM LOGIC DOMINICANA
+            [contact_name] => ZULY REYES
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-04
+            [visit_time] => 14:00
+            [duration] => 120
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 16:22:51
+            [updated_at] => 
+        )
+
+)
+
+[02-Feb-2025 14:03:52 America/Santo_Domingo] Pending visits query result: Array
+(
+    [0] => Array
+        (
+            [id] => 46
+            [client_name] => JAZ INDUSTRIAL
+            [contact_name] => Martinez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 09:35
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 01:36:11
+            [updated_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 47
+            [client_name] => SOLFIS
+            [contact_name] => Jefferson Sanchez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 13:00
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:30:44
+            [updated_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 48
+            [client_name] => THC
+            [contact_name] => Martinez Feliz
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 16:00
+            [duration] => 60
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:52:00
+            [updated_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 49
+            [client_name] => TEAM LOGIC DOMINICANA
+            [contact_name] => ZULY REYES
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-04
+            [visit_time] => 14:00
+            [duration] => 120
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 16:22:51
+            [updated_at] => 
+        )
+
+)
+
+[02-Feb-2025 14:07:18 America/Santo_Domingo] Pending visits query result: Array
+(
+    [0] => Array
+        (
+            [id] => 46
+            [client_name] => JAZ INDUSTRIAL
+            [contact_name] => Martinez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 09:35
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 01:36:11
+            [updated_at] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 47
+            [client_name] => SOLFIS
+            [contact_name] => Jefferson Sanchez
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => detrás de mora
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 13:00
+            [duration] => 120
+            [service_type] => Instalación
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:30:44
+            [updated_at] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 48
+            [client_name] => THC
+            [contact_name] => Martinez Feliz
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-03
+            [visit_time] => 16:00
+            [duration] => 60
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 05:52:00
+            [updated_at] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 49
+            [client_name] => TEAM LOGIC DOMINICANA
+            [contact_name] => ZULY REYES
+            [contact_phone] => 8297304466
+            [address] => 808-692-7321 FANETE NO1 ESQ LA TRINITARIA, VISTA HERMOSA SDE
+            [reference] => Entrando en la fiscalia
+            [location_url] => https://maps.app.goo.gl/7oEvAaa9c5zyn4meA
+            [location_lat] => 
+            [location_lng] => 
+            [visit_date] => 2025-02-04
+            [visit_time] => 14:00
+            [duration] => 120
+            [service_type] => Mantenimiento
+            [status] => pending
+            [completion_time] => 
+            [start_time] => 
+            [completion_location] => 
+            [completion_notes] => 
+            [created_by] => 2
+            [technician_id] => 3
+            [notes] => 
+            [created_at] => 2025-02-02 16:22:51
+            [updated_at] => 
+        )
+
+)
+
+[03-Feb-2025 12:36:57 America/Santo_Domingo] PHP Warning:  require_once(../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/technician/actions/get_visit_details.php on line 3
+[03-Feb-2025 12:36:57 America/Santo_Domingo] PHP Warning:  require_once(../includes/session_check.php): failed to open stream: No such file or directory in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/technician/actions/get_visit_details.php on line 3
+[03-Feb-2025 12:36:57 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/technician/actions/get_visit_details.php on line 3
+[03-Feb-2025 12:36:57 America/Santo_Domingo] PHP Fatal error:  require_once(): Failed opening required '../includes/session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/saedigro/public_html/sistemas/jazindustrial/tech_visits/technician/actions/get_visit_details.php on line 3

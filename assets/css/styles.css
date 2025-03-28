@@ -1,0 +1,142 @@
+/* Estilos base */
+:root {
+    --header-height: 64px;
+    --nav-height: 64px;
+}
+
+/* Cards responsivas */
+.visit-cards-grid {
+    display: grid;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+/* Móvil: una columna */
+@media (max-width: 640px) {
+    .visit-cards-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .visit-card {
+        max-height: calc(100vh - var(--header-height) - var(--nav-height) - 2rem);
+        overflow-y: auto;
+    }
+}
+
+/* Tablet: dos columnas */
+@media (min-width: 641px) and (max-width: 1024px) {
+    .visit-cards-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .visit-card {
+        max-height: 400px;
+    }
+}
+
+/* Desktop: tres o más columnas */
+@media (min-width: 1025px) {
+    .visit-cards-grid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    }
+    
+    .visit-card {
+        max-height: 450px;
+    }
+}
+
+/* Calendario responsivo */
+.calendar-grid {
+    display: grid;
+    gap: 0.5rem;
+}
+
+/* Móvil: vista compacta */
+@media (max-width: 640px) {
+    .calendar-grid {
+        grid-template-columns: repeat(7, 1fr);
+    }
+    
+    .calendar-day {
+        aspect-ratio: 1;
+        font-size: 0.875rem;
+    }
+    
+    .calendar-day-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+/* Desktop: vista expandida */
+@media (min-width: 641px) {
+    .calendar-grid {
+        grid-template-columns: repeat(7, 1fr);
+    }
+    
+    .calendar-day {
+        min-height: 120px;
+        padding: 0.5rem;
+    }
+    
+    .calendar-day-content {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+/* Estilos para la navegación */
+.bottom-nav {
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: white;
+    border-top: 1px solid #e5e7eb;
+    height: var(--nav-height);
+    padding: 0.5rem;
+}
+
+@media (min-width: 1025px) {
+    .bottom-nav {
+        position: static;
+        border-top: none;
+        margin-bottom: 1rem;
+    }
+}
+
+/* Estilos para modales */
+.modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 50;
+}
+
+@media (max-width: 640px) {
+    .modal-content {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        max-height: 90vh;
+        overflow-y: auto;
+        border-radius: 1rem 1rem 0 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .modal-content {
+        width: 100%;
+        max-width: 600px;
+        margin: 2rem;
+        border-radius: 1rem;
+    }
+}
